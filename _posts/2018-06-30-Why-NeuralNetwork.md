@@ -1,4 +1,7 @@
-±¾ÏµÁĞ¹ØÓÚAI/DeepLearningµÄ´ó²¿·Ö×ÊÁÏÀ´Ô´ÓÚAndrew NGÔÚCourseraµÄ½²¿Î±¾ÄÚÈİ£¬Ï£ÍûÏµÍ³Ñ§Ï°µÄÍ¬Ñ§Çë×ÔĞĞÔÚCoursera×¢²áÑ§Ï°»òÅÔÌı£º https://www.coursera.org
+æœ¬ç³»åˆ—å…³äºAI/DeepLearningçš„å¤§éƒ¨åˆ†èµ„æ–™æ¥æºäºAndrew NGåœ¨Courseraçš„è®²è¯¾æœ¬å†…å®¹ï¼Œ  
+å¸Œæœ›ç³»ç»Ÿå­¦ä¹ çš„åŒå­¦è¯·è‡ªè¡Œåœ¨Courseraæ³¨å†Œå­¦ä¹ æˆ–æ—å¬ï¼š https://www.coursera.org  
 
-ÔÚAIÊ¢ĞĞµÄ½ñÌì£¬DeepLearningºÍNeural Network¼¸ºõ¿ÉÒÔËµÊÇMachine LearningµÄ´úÃû´Ê£¬
-¾¡¹Ü»úÆ÷Ñ§Ï°º­¸ÇºÜ¶àµÄÁìÓò£¬±ÈÈçKNN, SVM,ÎªÊ²Ã´ÄØ£¿ÏÂÃæAndrew NGµÄÕâÕÅÍ¼£º
+åœ¨AIç››è¡Œçš„ä»Šå¤©ï¼ŒDeepLearningå’ŒNeural Networkå‡ ä¹å¯ä»¥è¯´æ˜¯Machine Learningçš„ä»£åè¯ï¼Œ  
+å°½ç®¡æœºå™¨å­¦ä¹ æ¶µç›–å¾ˆå¤šçš„é¢†åŸŸï¼Œæ¯”å¦‚KNN, SVM,ä¸ºä»€ä¹ˆå‘¢ï¼Ÿä¸‹é¢Andrew NGçš„è¿™å¼ å›¾ï¼š  
+
+![img](/img/deeplearning/scale-drive-nn.png)
