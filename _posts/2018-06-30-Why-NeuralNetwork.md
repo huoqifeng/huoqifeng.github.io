@@ -5,7 +5,7 @@
 尽管机器学习涵盖很多的领域，比如KNN, SVM,为什么NN占据了统治地位呢？下面Andrew NG的这张图可以说的很明白：  
 
 
-![img](https://github.com/huoqifeng/huoqifeng.github.io/blob/master/img/deeplearning/scale-drive-nn.png)
+![img](https://huoqifeng.github.io/img/deeplearning/scale-drive-nn.png)
 
 
  - 当数据集比较小的时候，传统机器学习的结果和NN的结果是差不多的

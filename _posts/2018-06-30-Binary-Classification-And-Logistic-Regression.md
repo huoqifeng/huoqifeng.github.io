@@ -6,7 +6,7 @@
 Binary Classification是一个True/False问题，比如对于一个图片，图片中的是不是一只猫，对于一个邮件，是不是对你很重要等等。
 以下图来说：
 
-![img](https://github.com/huoqifeng/huoqifeng.github.io/blob/master/img/deeplearning/binary-classification.png)
+![img](https://huoqifeng.github.io/img/deeplearning/binary-classification.png)
 
 
  - 每一个图片都是一个64x64像素的图
@@ -15,7 +15,7 @@ Binary Classification是一个True/False问题，比如对于一个图片，图�
  - 对应的Y，可能是Cat(1),不是Cat(0)
  
 在Binary Classification中用的Notation如下图：
-![img](https://github.com/huoqifeng/huoqifeng.github.io/blob/master/img/deeplearning/notation-binary-classification.png) 
+![img](https://huoqifeng.github.io/img/deeplearning/notation-binary-classification.png) 
  - 对于每一个数据样本（x,y）,x是一个n维向量，n是特征数，y是0或1
  - m是样本数量
  - 总的样本的特征X 是m列的矩阵，每一列是一个样本的特征向量
@@ -25,7 +25,7 @@ Binary Classification是一个True/False问题，比如对于一个图片，图�
 那么机器学习就是要通过对m个样例的分析和学习，得到一个模型（Model）,对于新的图片，应用这个模型来判断，新的图片是不是一只猫（1或者0）。
 Logistic Regression就是这样的一种算法，基本的算法就是给每一个特征分配一个权重w，这样W就是一个n维的向量，n是特征的数量，
 算法通过学习（迭代）得到W,那么对新的图片应用W就可以得到预测值，下面是Logistic Regression用到的Notation:
-![img](https://github.com/huoqifeng/huoqifeng.github.io/blob/master/img/deeplearning/notation-logistic-regression.png)  
+![img](https://huoqifeng.github.io/img/deeplearning/notation-logistic-regression.png)  
  - 需要注意的是常数b，是一个正则化因子，后面的文章会提到
  - W是一个n维向量，由样例通过迭代得到。
  - W + b 就是Model
