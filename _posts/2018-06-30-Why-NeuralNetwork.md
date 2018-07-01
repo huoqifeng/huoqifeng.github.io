@@ -2,7 +2,7 @@
 希望系统学习的同学请自行在Coursera注册学习或旁听： https://www.coursera.org  
 
 在AI盛行的今天，DeepLearning和Neural Network几乎可以说是Machine Learning的代名词，  
-尽管机器学习涵盖很多的领域，比如KNN, SVM,为什么呢？下面Andrew NG的这张图可以说的很明白：  
+尽管机器学习涵盖很多的领域，比如KNN, SVM,为什么NN占据了统治地位呢？下面Andrew NG的这张图可以说的很明白：  
 
 
 ![img](https://github.com/huoqifeng/huoqifeng.github.io/blob/master/img/deeplearning/scale-drive-nn.png)
